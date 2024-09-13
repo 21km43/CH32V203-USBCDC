@@ -1,5 +1,7 @@
 # CH32V203-USBCDC
 
+[Adafruit_TinyUSB_Arduino](https://github.com/adafruit/Adafruit_TinyUSB_Arduino)がCH32V203に対応したのでそっちを使った方が良いです
+
 CH32V203のUSBD機能を使ったUSB-CDCライブラリ。PlatformIOやArduino IDEで利用可能。
 
 USB-CDCを使う場合、システムのクロック周波数は以下のものに限られるので注意（HSI, HSEのいずれも可）
