@@ -115,7 +115,7 @@ private:
     uint8_t _data_bit;
 };
 
-extern USBSerial Serial;
+extern USBSerial Serial0;
 
 #endif
 
